@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="17.9894534" cy="17.9894534" r="17.9894534"></circle>
+        <filter x="-4.2%" y="-4.2%" width="108.3%" height="108.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Letter" transform="translate(-820.000000, -941.000000)">
+            <g id="warning" transform="translate(821.000000, 942.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FAC930" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="!" font-family="Roboto-Bold, Roboto" font-size="13.4039065" font-weight="bold" fill="#FEFFFE">
+                    <tspan x="16.2257815" y="23.5696877">!</tspan>
+                </text>
+                <path d="M36.0494537,20.1058597 L19.4003909,11.5696877 C19.4003909,11.6715051 20.4821097,13.811427 22.6455473,17.9894534 L25.3968754,23.2451957 L26.5256254,25.6790629 L12.557344,25.6790629 L24.4092192,34.9207037 C27.0578747,33.7350905 29.2448279,32.2536061 30.9700786,30.4762505 C32.1627262,29.2475833 33.8998544,26.9255718 35.0617975,24.0917582 C35.407725,23.2480902 35.7369438,21.9194573 36.0494537,20.1058597 Z" id="Oval" fill-opacity="0.38" fill="#CC9C02"></path>
+                <path d="M18.4385946,9.50500118 L26.2193362,25.0664845 C26.3238822,25.2755764 26.239131,25.52983 26.0300391,25.6343759 C25.9712642,25.6637634 25.9064543,25.6790629 25.840742,25.6790629 L10.2792586,25.6790629 C10.0454868,25.6790629 9.85597736,25.4895535 9.85597736,25.2557817 C9.85597736,25.1900693 9.8712769,25.1252594 9.90066435,25.0664845 L17.681406,9.50500118 C17.785952,9.29590934 18.0402056,9.21115812 18.2492974,9.31570404 C18.331214,9.35666231 18.3976363,9.42308465 18.4385946,9.50500118 Z" id="Triangle" stroke="#FEFFFE" stroke-width="0.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

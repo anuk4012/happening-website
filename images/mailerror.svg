@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="31px" viewBox="0 0 28 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>mail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mail" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" stroke="#8EE1DC" stroke-width="0.513174" fill="#8EE1DC" x="0" y="0" width="26" height="29" rx="0.827699993"></rect>
+            <g id="Group" transform="translate(5.000000, 8.000000)" fill="#C92935">
+                <path d="M8,8.4 L6.02057143,6.5808 L0.361142857,11.6748 C0.566857143,11.8752 0.844571429,12 1.15085714,12 L14.8491429,12 C15.1542857,12 15.4308571,11.8752 15.6354286,11.6748 L9.97942857,6.5808 L8,8.4 Z" id="Path"></path>
+                <path d="M15.6388571,0.3252 C15.4331429,0.1236 15.1565714,0 14.8491429,0 L1.15085714,0 C0.845714286,0 0.569142857,0.1248 0.363428571,0.3276 L8,7.2 L15.6388571,0.3252 Z" id="Path"></path>
+                <polygon id="Path" points="-8.8817842e-16 1.0536 -8.8817842e-16 11.0232 5.52342857 6.0948"></polygon>
+                <polygon id="Path" points="10.4765714 6.0948 16 11.0232 16 1.05"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="29px" viewBox="0 0 26 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>User icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.42857143,20.7395023 C7.42857143,20.7395023 7.42857143,19.8726572 7.42857143,19.7575291 C7.42857143,18.4866082 9.34222389,17.3308147 11.4327302,16.9244811 C11.4327302,16.9244811 12.0721262,16.579097 11.897539,15.9425079 C11.2581436,15.1343551 11.0835569,14.26751 11.0835569,14.26751 C10.9679214,14.2088177 10.7933348,14.0936897 10.6776992,13.9785616 C10.5031126,13.7460489 10.2718415,13.0530242 10.3307932,12.5338198 C10.387477,12.071051 10.5031126,12.2448714 10.5620637,12.129744 C10.0972549,11.0890779 10.3307932,9.75946403 10.8522859,8.7774909 C11.9542235,6.86998029 14.2760009,7.44787704 14.6251741,8.1409018 C16.831316,7.73682541 16.7723649,11.2042059 16.4254588,12.071051 C16.4254588,12.071051 16.5977783,12.129744 16.5977783,12.9378962 C16.5410938,13.8047413 15.8450145,14.3239457 15.8450145,14.3239457 C15.8450145,14.5564584 15.5547923,15.2494832 15.0899829,15.8860728 C14.6841258,16.694225 15.4958406,16.8680454 15.4958406,16.8680454 C17.5863475,17.2721218 19.5,18.4279153 19.5,19.6988368 C19.5,19.8139648 19.5,20.6808099 19.5,20.6808099 C19.5,21.4912194 16.3665072,22.3580645 13.4642854,22.3580645 C10.6210153,22.3580645 7.42857143,22.0691161 7.42857143,20.7395023 Z" id="path-1"></path>
+        <filter x="-12.4%" y="-10.1%" width="124.9%" height="120.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.560784314   0 0 0 0 0.560784314   0 0 0 0 0.545098039  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A0" transform="translate(-1396.000000, -1023.000000)">
+            <g id="User-icon" transform="translate(1396.000000, 1023.000000)">
+                <rect id="Rectangle" fill="#ECECEB" x="0" y="0" width="26" height="29" rx="0.827699993"></rect>
+                <g id="Path" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#8F8F8B" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

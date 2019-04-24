@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>error</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="18" cy="18" r="18"></circle>
+        <filter x="-4.2%" y="-4.2%" width="108.3%" height="108.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Letter" transform="translate(-911.000000, -941.000000)">
+            <g id="error" transform="translate(912.000000, 942.000000)">
+                <g id="Oval">
+                    <g>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F54451" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M35.2941176,23.2588235 L21.8953112,14.7562334 L18,17.9985792 L15.030452,21.8650031 L24.4235294,34.9411765 C27.3120414,33.9172861 29.5002767,32.4349332 30.9882353,30.4941176 C32.0705882,29.0823529 33.5058824,26.6705882 35.2941176,23.2588235 Z" fill-opacity="0.38" fill="#C92935"></path>
+                </g>
+                <polygon id="Add" fill="#FFFFFF" transform="translate(18.139756, 17.998579) rotate(44.000000) translate(-18.139756, -17.998579) " points="17.6905578 13.0574027 18.5889535 13.0574027 18.5889535 17.5493813 23.0809321 17.5493813 23.0809321 18.4477771 18.5889535 18.4477771 18.5889535 22.9397557 17.6905578 22.9397557 17.6905578 18.4477771 13.1985792 18.4477771 13.1985792 17.5493813 17.6905578 17.5493813"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

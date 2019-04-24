@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="7.99996875" cy="7.99996875" r="7.99996875"></circle>
+        <filter x="-12.5%" y="-6.3%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#F53240" xlink:href="#path-1"></use>
+            </g>
+            <polygon id="Rectangle" fill="#FFFFFF" transform="translate(7.999948, 8.000069) rotate(-45.000000) translate(-7.999948, -8.000069) " points="7.62495136 3.75029701 8.37494417 3.75029701 8.37494417 12.2498405 7.62495136 12.2498405"></polygon>
+            <polygon id="Rectangle" fill="#FFFFFF" transform="translate(7.999961, 8.000220) rotate(-45.000000) translate(-7.999961, -8.000220) " points="3.75018963 7.62522346 12.2497331 7.62522346 12.2497331 8.37521626 3.75018963 8.37521626"></polygon>
+        </g>
+    </g>
+</svg>

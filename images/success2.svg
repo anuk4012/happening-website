@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>success1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-36.1%" y="-36.1%" width="172.2%" height="172.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="18" cy="18" r="18"></circle>
+        <filter x="-4.2%" y="-4.2%" width="108.3%" height="108.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Letter" transform="translate(-708.000000, -880.000000)">
+            <g id="success1" filter="url(#filter-1)" transform="translate(712.000000, 882.000000)">
+                <g id="sucess">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#599F08" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <polyline id="Check" stroke="#FFFFFF" stroke-width="1.48781996" points="9.74117647 19.1911765 14.8112532 24.5647059 26.4 12.2823529"></polyline>
+                </g>
+                <path d="M36,20.2764706 L26.8235294,12.8470588 C26.8235294,13.0823529 25.5058824,14.5411765 22.8705882,17.2235294 L19.9058824,20.2764706 L15.0352941,25.6941176 L24.3529412,35.1 C27.0031496,33.9136918 29.1913849,32.4313388 30.9176471,30.6529412 C32.1109939,29.4235537 33.8491404,27.1001808 35.0117647,24.2647059 C35.3578951,23.4205432 35.6873068,22.0911315 36,20.2764706 Z" id="Oval" fill-opacity="0.38" fill="#417505"></path>
+            </g>
+        </g>
+    </g>
+</svg>

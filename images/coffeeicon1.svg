@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="55px" viewBox="0 0 45 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(1.000000, 0.000000)">
+            <polyline id="Path-2" stroke="#F54451" stroke-width="1.3499999" fill="#F54451" points="18.7529425 17.6051642 -4.54747351e-13 17.6051642 10.4767061 53.9201642"></polyline>
+            <polyline id="Path-2" stroke="#F54451" stroke-width="1.3499999" fill="#F54451" transform="translate(30.571593, 35.762664) scale(-1, 1) translate(-30.571593, -35.762664) " points="39.9480644 17.6051642 21.195122 17.6051642 31.6718281 53.9201642"></polyline>
+            <polygon id="Path-3" stroke="#F76F78" stroke-width="1.3499999" fill="#F76F78" points="13.0121951 53.9201642 27.2317073 53.9201642 20.1219512 22.1951642"></polygon>
+            <path d="M10.7114803,15.1222436 C10.7114803,12.047252 11.7769836,9.49016875 11.4102072,6.42901281 C11.1173545,3.98483266 9.77319,4.19844845 9.77319,1.40835562" id="Path-4" stroke="#F54451" stroke-width="0.5"></path>
+            <path d="M15.1633684,14.8992372 C15.1633684,7.53206234 14.6928545,15.1206747 16.6826002,7.79517803 C17.3970737,5.16475483 15.3350556,2.71082338 15.3350556,0" id="Path-5" stroke="#F54451" stroke-width="0.5"></path>
+            <path d="M19.6192493,15.3814131 C19.9487611,9.99949298 19.2264746,16.4098301 21.9689678,8.76555715 C22.5653331,7.10328152 20.6174304,4.8780772 20.6174304,2.13362863" id="Path-6" stroke="#F54451" stroke-width="0.5"></path>
+            <path d="M29.6090466,15.8816707 C29.6090466,13.3846733 31.0199111,12.0495976 31.0184784,9.63749201 C31.0169063,6.99060796 30.7190241,4.35230773 30.5692969,1.70971559" id="Path-8" stroke="#F54451" stroke-width="0.5"></path>
+            <path d="M25.1255607,15.4959299 C25.1255607,11.3965606 27.1657195,7.26043649 25.1874479,3.53193891" id="Path-7" stroke="#F54451" stroke-width="0.5"></path>
+            <polyline id="Path-9" stroke="#F54451" stroke-width="0.5" fill="#F54451" transform="translate(37.498604, 35.500884) rotate(15.000000) translate(-37.498604, -35.500884) " points="33.264951 35.7573244 41.7060079 27.0669579 41.7326847 43.9348098 33.2645242 35.4874387"></polyline>
+        </g>
+    </g>
+</svg>

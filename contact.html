@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+<head>
+
+	<meta charset="UTF-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Happening Contact us page</title>
+
+	<link rel="stylesheet" href="websitestyle.css">
+
+	<link href="https://fonts.googleapis.com/css?family=Oswald:300,400|Raleway:300,400,500" rel="stylesheet">
+
+</head>
+
+<body>
+	<header>
+
+		<div class="nav-container">
+
+			<div class="logo">
+
+				<a href="index.html">
+
+					<img src= "images/happeninglogo6.svg" alt="logo" > 
+
+				<a/>
+
+			</div>
+			
+			<nav class="nav-primary"> 
+
+				<ul>
+
+					<li ><a href="index.html">Home</a></li> <!--Capitalize with CSS-->
+
+					<li><a href="about.html">About</a></li>
+
+					<li><a href="contact.html" class="current-page">Contact</a></li>
+
+
+				</ul>
+
+			</nav>
+
+		</div>
+
+	</header>
+
+	<main>
+
+		<div class="banner">
+
+			<img class="banner-image" src="images/contact.jpg" alt="contact-image" >
+
+		</div>
+
+		<div class="form-contact form-max-width"> 
+
+			<h1>Contact us</h1>
+
+			<form action="/action_page.php" class="form-max-width">
+
+				<!--Name -->
+
+				<label for="your-name">Your Full Name: <em>*</em></label>
+
+				<p class="text-microcopy">Enter If any Middle name available</p>
+
+				<input type="text" id="your-name" name="your-name" placeholder="Eg.jhon doe" required>
+
+				<!--select -->
+
+				<p class="example-select"> My reason to contact you,to talk about <em>*</em>
+
+					<select id="event" name="event-type" required>
+
+						<option selected disabled hidden value="">Choose</option>
+
+						<option value="office-party">Office Party</option>
+
+						<option value="wedding">wedding</option>
+
+						<option value="concert">Concert</option> 
+
+						<option value="birthday-party">Birthday Party</option> 
+
+						<option value="loft-party">Loft party</option> 
+
+						<option value="other">other</option> 
+
+					</select>.
+
+				</p>
+
+				<!--Email -->
+
+				<div class="conatiner">
+
+					<label for="email-Address">Your Email address: <em>*</em></label>
+
+					<input type="email" id="email-Address" name="your-name" placeholder="Eg.jhondoe@gmail.com" required>
+
+				</div>
+
+				<!--phone -->
+
+				<div class="conatiner">
+
+					<label  class="label-style" for="telNo">Phone Number: <em>*</em></label>
+
+					<input id="telNo" name="telNo"  type="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+
+				</div>
+
+				<!--conatct-method -->
+
+				<p>My preferred contact method:</p>
+
+				<div class="radio-button-container">
+
+					<!--radio1 -->
+
+					<input type="radio" id="contactChoice1" name="contact" value="email" checked>
+
+					<label for="contactChoice1" >Email</label>
+
+					<!--radio2 -->
+
+					<input type="radio" id="contactChoice2" name="contact" value="phone">
+
+					<label for="contactChoice2">Phone</label>
+
+					<!--radio3 -->
+
+					<input type="radio" id="contactChoice3" name="contact" value="other">
+
+					<label for="contactChoice3">Other</label>
+
+				</div>
+
+				<!--text-field-->
+
+				<label for="message">Message:</label>
+
+				<textarea id="message" name="message" placeholder="Enter your text here"></textarea>
+
+				<p class="textarea-microcopy">0-255 characters</p>
+
+				<!--submit button-->
+
+				<div class="text-class">
+
+					<button type="submit">Contact Us</button>
+
+				</div>
+
+			</form>
+
+		</div>
+
+	</main>
+	<footer class="site-footer">
+        
+            <div class="footer-logo">
+
+            	<img src= "images/happeninglogo6.svg" alt="footer-logo" > 
+
+            </div>
+
+        
+    		<nav class="site-footer-nav">
+	    		<ul>	
+					<li><a href="">Facebook </a></li> 
+					<li><a href="">partners</a></li>  
+					<li><a href="">Linkedin </a></li> 
+					<li><a href="">Twitter</a></li> 
+				</ul>
+		   </nav>
+
+		   <p>1234,Research Blvd,Austin,TX-76543</P>
+
+		   <p>Copyright © 2019 Happening.INC . All rights reserved</P>
+
+	</footer>
+	
+</body>
+
+</html>
